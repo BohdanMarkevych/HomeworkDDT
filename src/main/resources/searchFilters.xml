@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filterDataRozetka>
+    <searchFiltersRozetka>
+        <type>Ноутбук</type>
+        <expectedSum>50000</expectedSum>
+    </searchFiltersRozetka>
+    <searchFiltersRozetka>
+        <type>Холодильник</type>
+        <expectedSum>40000</expectedSum>
+    </searchFiltersRozetka>
+    <searchFiltersRozetka>
+        <type>Смартфон</type>
+        <expectedSum>50000</expectedSum>
+    </searchFiltersRozetka>
+    <searchFiltersRozetka>
+        <type>Драбина</type>
+        <expectedSum>20000</expectedSum>
+    </searchFiltersRozetka>
+    <searchFiltersRozetka>
+        <type>Телевізор</type>
+        <expectedSum>60000</expectedSum>
+    </searchFiltersRozetka>
+</filterDataRozetka>
